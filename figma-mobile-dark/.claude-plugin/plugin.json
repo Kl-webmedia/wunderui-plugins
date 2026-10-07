@@ -1,0 +1,22 @@
+{
+  "name": "figma-mobile-dark",
+  "version": "1.0.0",
+  "description": "Mobile (390 px) and dark versions of your Figma screens: rebuilds desktop screens for mobile, repairs broken mobile frames and derives dark frames from the light ones through variable modes.",
+  "icon": "assets/logo.png",
+  "author": {
+    "name": "WunderUI",
+    "url": "https://wunderui.com"
+  },
+  "homepage": "https://wunderui.com",
+  "repository": "https://github.com/Kl-webmedia/wunderui-plugins",
+  "license": "MIT",
+  "keywords": [
+    "figma",
+    "mobile",
+    "dark-mode",
+    "responsive",
+    "design-system",
+    "variables",
+    "ui-design"
+  ]
+}

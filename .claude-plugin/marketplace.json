@@ -1,0 +1,17 @@
+{
+  "name": "wunderui",
+  "owner": {
+    "name": "WunderUI",
+    "url": "https://wunderui.com"
+  },
+  "metadata": {
+    "description": "Claude plugins by WunderUI for designing and building interfaces."
+  },
+  "plugins": [
+    {
+      "name": "figma-mobile-dark",
+      "source": "./figma-mobile-dark",
+      "description": "Mobile (390 px) and dark versions of your Figma screens, derived through variable modes."
+    }
+  ]
+}
