@@ -2,7 +2,7 @@
   "mcpServers": {
     "wunderui": {
       "command": "npx",
-      "args": ["-y", "wunderui-mcp"]
+      "args": ["-y", "wunderui-mcp@1.1.0"]
     }
   }
 }
