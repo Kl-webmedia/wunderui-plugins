@@ -9,6 +9,11 @@
   },
   "plugins": [
     {
+      "name": "wunderui",
+      "source": "./wunderui",
+      "description": "Set up WunderUI, build complete screens, generate a brand theme and check tokens — plus the WunderUI MCP server."
+    },
+    {
       "name": "figma-mobile-dark",
       "source": "./figma-mobile-dark",
       "description": "Mobile (390 px) and dark versions of your Figma screens, derived through variable modes."
