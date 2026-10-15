@@ -1,7 +1,7 @@
 {
   "name": "wunderui",
-  "version": "1.0.0",
-  "description": "WunderUI in Claude: set up the free React components, build complete screens with all their states, generate a brand theme and catch hard-coded colours — plus the WunderUI MCP server for component search, props and source.",
+  "version": "1.0.1",
+  "description": "WunderUI in Claude: set up the free React components, build complete screens with all their states, generate a brand theme and catch hard-coded colours.",
   "icon": "assets/logo.png",
   "author": {
     "name": "WunderUI",
@@ -17,7 +17,6 @@
     "tailwind",
     "dashboard",
     "design-tokens",
-    "theming",
-    "mcp"
+    "theming"
   ]
 }
